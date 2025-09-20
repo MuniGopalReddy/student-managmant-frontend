@@ -64,9 +64,9 @@ export default function App() {
         <h3 className="text-3xl font-semibold mb-4">Contact Me</h3>
         <p className="mb-6 text-gray-600">Let’s work together! You can reach me at:</p>
         <div className="space-x-6">
-          <a href="mailto:yourmail@example.com" className="text-blue-600 font-semibold">Email</a>
-          <a href="https://linkedin.com/in/yourprofile" target="_blank" className="text-blue-600 font-semibold">LinkedIn</a>
-          <a href="https://github.com/yourusername" target="_blank" className="text-blue-600 font-semibold">GitHub</a>
+          <a href="mailto:munigopalreddy@gmail.com" className="text-blue-600 font-semibold">Email</a>
+          <a href="www.linkedin.com/in/muni-gopal-reddy-nalla-428aa6202" target="_blank" className="text-blue-600 font-semibold">LinkedIn</a>
+          <a href="https://github.com/MuniGopalReddy" target="_blank" className="text-blue-600 font-semibold">GitHub</a>
         </div>
       </section>
 
